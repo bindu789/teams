@@ -1,0 +1,207 @@
+    In aws_deveops this is our main file which is going to be run our application. so, we need to send these files in to a GitHub repository by using those commands.
+             
+             
+            echo "# new" >> README.md ----- this is a README file 
+            
+            git init ------ intitialized empty git repository
+            
+            git add README.md ------ we are adding the READMe.md file
+            
+            git commit -m "first commit" ------ if its first project for that i want to share with github
+                                                  but git was not understanding to our local machine exactly where to share the file
+                                                  For that we need to change the mail id which is mention in github
+                                                  For that purpose need to do use the config command 
+                                                  i.e...
+            metion in terminal git config email address
+                               git config username
+                               
+                    We need to check the README.md file is created or not
+                    
+            git commit -m "first commit" ------- it create the mode of README.md file
+            
+            git branch -M main -----means creates in main branch 
+            
+            git remote add origin (link) which is connected to github
+            
+            git push -u origin main------ create in github 
+
+            whether it create in github or not how to check in terminal
+              
+              git status ---> shows in red color those files are not commit in github 
+              
+              again same process will start in terminal for each n every folder we need to check the status
+              
+              
+             STEPS:
+              
+                    git status (presented in red color which means those files are not commit to github)
+                    
+                    git add (particular floder name)
+                    
+                    git status (check the status) (which is presented to green color)
+                    
+                    git commit ("Any msg") 
+                    
+                    git status       
+                    
+                    git push origin main (enter username, password:which means token id)
+                    
+                    and go to the github repository and do refresh the file is added to the github.              
+            
+          
+           
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                In aws_deveops this is our main file which is going to be run our application. so, we need to send these files in to a GitHub repository by using those commands.
+             
+             
+            echo "# new" >> README.md ----- this is a README file 
+            
+            git init ------ intitialized empty git repository
+            
+            git add README.md ------ we are adding the READMe.md file
+            
+            git commit -m "first commit" ------ if its first project for that i want to share with github
+                                                  but git was not understanding to our local machine exactly where to share the file
+                                                  For that we need to change the mail id which is mention in github
+                                                  For that purpose need to do use the config command 
+                                                  i.e...
+            metion in terminal git config email address
+                               git config username
+                               
+                    We need to check the README.md file is created or not
+                    
+            git commit -m "first commit" ------- it create the mode of README.md file
+            
+            git branch -M main -----means creates in main branch 
+            
+            git remote add origin (link) which is connected to github
+            
+            git push -u origin main------ create in github 
+
+            whether it create in github or not how to check in terminal
+              
+              git status ---> shows in red color those files are not commit in github 
+              
+              again same process will start in terminal for each n every folder we need to check the status
+              
+              
+             STEPS:
+              
+                    git status (presented in red color which means those files are not commit to github)
+                    
+                    git add (particular floder name)
+                    
+                    git status (check the status) (which is presented to green color)
+                    
+                    git commit ("Any msg") 
+                    
+                    git status       
+                    
+                    git push origin main (enter username, password:which means token id)
+                    
+                    and go to the github repository and do refresh the file is added to the github.              
+            
+          
+           
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+             In aws_deveops this is our main file which is going to be run our application. so, we need to send these files in to a GitHub repository by using those commands 
+             
+            echo "# new" >> README.md ----- this is a README file 
+            
+            git init ------ intitialized empty git repository
+            
+            git add README.md ------ we are adding the READMe.md file
+            
+            git commit -m "first commit" ------ if its first project for that i want to share with github
+                                                  but git was not understanding to our local machine exactly where to share the file
+                                                  For that we need to change the mail id which is mention in github
+                                                  For that purpose need to do use the config command 
+                                                  i.e...
+            metion in terminal git config email address
+                               git config username
+                               
+                    We need to check the README.md file is created or not
+                    
+            git commit -m "first commit" ------- it create the mode of README.md file
+            
+            git branch -M main -----means creates in main branch 
+            
+            git remote add origin (link) which is connected to github
+            
+            git push -u origin main------ create in github 
+
+            whether it create in github or not how to check in terminal
+              
+              git status ---> shows in red color those files are not commit in github 
+              
+              again same process will start in terminal for each n every folder we need to check the status
+              
+              
+             STEPS:
+              
+                    git status (presented in red color which means those files are not commit to github)
+                    
+                    git add (particular floder name)
+                    
+                    git status (check the status) (which is presented to green color)
+                    
+                    git commit ("Any msg") 
+                    
+                    git status       
+                    
+                    git push origin main (enter username, password:which means token id)
+                    
+                    and go to the github repository and do refresh the file is added to the github.              
+            
